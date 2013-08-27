@@ -18,8 +18,8 @@ KEYWORDS="amd64 x86"
 IUSE=""
 
 DEPEND="
-	!net-php/bitcoind
-	!net-php/bitcoin-qt
+	!net-p2p/bitcoind
+	!net-p2p/bitcoin-qt
 "
 RDEPEND="${DEPEND}"
 
